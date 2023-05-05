@@ -1,5 +1,6 @@
 # Cat vs Dog Image Classifier
-This is a simple image classification project that uses a Convolutional Neural Network (CNN) to classify whether an input image contains a cat or a dog.
+This is a simple image classification project that uses a Convolutional Neural Network (CNN) to classify whether an input image contains a cat or a dog.<br>
+[Kaggle Notebook Link](https://www.kaggle.com/ranodeepbanerjee/dogs-cats-project)
 
 ## Requirements
 TensorFlow 2.0 or higher<br>
