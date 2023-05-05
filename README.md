@@ -2,13 +2,13 @@
 This is a simple image classification project that uses a Convolutional Neural Network (CNN) to classify whether an input image contains a cat or a dog.
 
 ## Requirements
-TensorFlow 2.0 or higher
-Keras
-NumPy
-matplotlib
-OpenCV
+TensorFlow 2.0 or higher<br>
+Keras<br>
+NumPy<br>
+matplotlib<br>
+OpenCV<br>
 
-##Dataset
+## Dataset
 The dataset used for this project is the [Cat and Dog dataset](https://www.kaggle.com/datasets/tongpython/cat-and-dog) which is available on Kaggle. The dataset contains 8000 images of cats and dogs (4000 images of each class) for training, and 2000 images of cats and dogs (1000 images of each class) for testing.
 
 ## Model Architecture
